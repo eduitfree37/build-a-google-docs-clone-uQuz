@@ -1,0 +1,5 @@
+# Build a Google Docs Clone
+
+Enhance your web development skills with our comprehensive 10-hour course on building a Google Docs clone from the ground up. This hands-on training will guide you through full-stack development techniques, enabling you to implement real-time collaboration features, a robust commenting and discussion system, and an advanced text editor powered by Tiptap. You'll also learn how to create custom extensions and a dynamic template gallery, among other advanced functionalities. Perfect for aspiring developers, this course equips you with the essential knowledge and modern technologies to create sophisticated applications. Join us to elevate your coding expertise and take your web projects to the next level! 
+
+[Detail](https://eduitfree.com/course/build-a-google-docs-clone)
